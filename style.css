@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f3e0e0;
+}
+
+#navbarSupportedContent {
+    /* padding: 0 10px; */
+   justify-content: right;
+}
+
+.carousel-item img {
+    max-width: 90%;
+    height: 75vh;
+    margin: 0 auto;
+}
